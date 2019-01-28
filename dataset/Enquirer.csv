@@ -1,0 +1,609 @@
+rank,schooldist,county,pass,adc,freelunch,medincome
+1,Ottawa Hills Local,Lucas,93.85,0.11,0,48231 
+2,Wyoming City,Hamilton,93.08,2.95,4.59,42672 
+3,Oakwood City,Montgome,92.92,0.2,0.38,42403 
+4,Madeira City,Hamilton,92.37,1.5,4.83,32889 
+5,Indian Hill Ex Vill,Hamilton,91.77,1.23,2.7,44135 
+6,Solon City,Cuyahoga,90.77,0.68,2.24,34993 
+7,Chagrin Falls Ex Vill,Cuyahoga,89.89,0.47,0.44,38921 
+8,Mariemont City,Hamilton,89.8,3,2.97,31823 
+9,Upper Arlington City,Franklin,89.77,0.24,0.92,38358 
+10,Granville Ex Vill,Licking,89.22,1.14,0,36235 
+11,Hudson Local,Summit,88.79,0.73,1.28,48281 
+12,Bexley City,Franklin,88.44,0.88,5.02,34277 
+13,Kalida Local,Putnam,88.43,0.13,4.48,25981 
+14,Beachwood City,Cuyahoga,88.14,0.87,3.73,34757 
+15,Grandview Heights City,Franklin,87.76,2.26,9.83,27402 
+16,New Knoxville Local,Auglaize,87.52,0.57,5.9,19757 
+17,Highland Local,Medina,87.48,1.21,6.01,32620 
+18,Aurora City,Portage,87.47,1.63,2.79,35612 
+19,Orange City,Cuyahoga,87.4,0.37,3.95,45251 
+20,Revere Local,Summit,87.25,1.06,2.66,36799 
+21,Forest Hills Local,Hamilton,87.18,1.65,3.07,35336 
+22,Bay Village City,Cuyahoga,87.05,0.63,4.93,37571 
+23,Mayfield City,Cuyahoga,87.03,3.75,9.12,27057 
+24,Brecksville-Broadview,Cuyahoga,87.01,1.37,5.22,34993 
+25,Kenston Local,Geauga,86.95,2.14,6.15,36632 
+26,Canfield Local,Mahoning,86.9,0.87,2.3,32788 
+27,Perrysburg Ex Vill,Wood,86.64,2.26,4.6,34954 
+28,Miller City-New Clevel,Putnam,86.32,0,6.49,25224 
+29,Perry Local,Lake,86.26,2.42,10.49,28833 
+30,Coldwater Ex Vill,Mercer,85.95,1.31,9.27,24300 
+31,Mason City,Warren,85.91,1.13,2.81,35300 
+32,North Canton City,Stark,85.56,2.37,6.89,29738 
+33,Independence Local,Cuyahoga,85.24,1.35,3.99,29350 
+34,Ottoville Local,Putnam,85.23,0,2.16,25594 
+35,Centerville City,Montgome,85.22,2.26,3.1,37439 
+36,Sugarcreek Local,Greene,85.02,0.86,0,38021 
+37,Sycamore Community Cit,Hamilton,84.99,2.82,5.42,35170 
+38,West Geauga Local,Geauga,84.97,1,3.88,32059 
+39,Jackson Local,Stark,84.85,2.32,5.1,30461 
+40,Maumee City,Lucas,84.56,3.92,9.2,28321 
+41,Rocky River City,Cuyahoga,84.53,1.56,3.37,31663 
+42,Marion Local,Mercer,84.4,0.27,3.19,26842 
+43,Chardon Local,Geauga,84.31,2.31,8.19,28830 
+44,Minster Local,Auglaize,84.19,0.8,4.48,27666 
+45,Fort Recovery Local,Mercer,84.17,1.07,12.18,23481 
+46,Dalton Local,Wayne,84.13,3,9.39,24687 
+47,Yellow Springs Ex Vill,Greene,84.11,8.92,7.99,29032 
+48,Green Local,Summit,84.11,5.69,11.21,30169 
+49,Poland Local,Mahoning,83.97,1.5,5.55,28237 
+50,Kirtland Local,Lake,83.66,2.24,6.06,31482 
+51,Green Local,Wayne,83.6,3.98,17.78,24218 
+52,Dublin City,Franklin,83.52,0.64,2.13,39424 
+53,St Henry Consolidated,Mercer,83.35,1.23,3.43,26346 
+54,New Bremen Local,Auglaize,83.12,1.03,7.47,26411 
+55,Worthington City,Franklin,83.05,1,4.27,36933 
+56,Westlake City,Cuyahoga,82.99,2.22,0,34364 
+57,Fort Loramie Local,Shelby,82.77,2.08,6.03,27619 
+58,Springboro Community C,Warren,82.72,1.07,3.26,40759 
+59,Manchester Local,Summit,82.59,3.37,9.1,28175 
+60,Lakota Local,Butler,82.58,1.28,3.62,40138 
+61,Sylvania City,Lucas,82.53,3.91,7.2,33702 
+62,Wadsworth City,Medina,82.51,4.14,12.45,28028 
+63,Cuyahoga Heights Local,Cuyahoga,82.4,0.88,7.8,27061 
+64,Lexington Local,Richland,82.29,2.22,7.88,29067 
+65,Russia Local,Shelby,82.28,0,6.83,27989 
+66,Tipp City Ex Vill,Miami,82.27,3.01,5.61,30317 
+67,Lakeview Local,Trumbull,82.27,4.72,9.2,30855 
+68,Strongsville City,Cuyahoga,82.23,1.18,4.59,35413 
+69,Loveland City,Hamilton,82,6.64,7.16,34260 
+70,Bluffton Ex Vill,Allen,81.96,1.21,7.23,25904 
+71,Eastwood Local,Wood,81.95,4.49,13.09,26613 
+72,Versailles Ex Vill,Darke,81.93,0.9,4.99,24885 
+73,Huron City,Erie,81.92,4.29,12.13,27950 
+74,Franklin-Monroe Local,Darke,81.82,0.95,13.47,26165 
+75,Anthony Wayne Local,Lucas,81.81,3.07,7.22,31136 
+76,Lordstown Local,Trumbull,81.5,3.55,13.59,28979 
+77,Pickerington Local,Fairfiel,81.47,0.43,1.83,39855 
+78,South Range Local,Mahoning,81.41,6.65,20.03,23414 
+79,Plain Local,Franklin,81.4,0.48,4.09,33647 
+80,Pandora-Gilboa Local,Putnam,81.37,0.81,8.25,24874 
+81,Olmsted Falls City,Cuyahoga,81.36,2.97,7.36,29313 
+82,Pettisville Local,Fulton,81.34,4.35,12.53,25384 
+83,Reading Community City,Hamilton,81.32,10.21,0,23995 
+84,East Holmes Local,Holmes,81.14,0.28,14.92,18143 
+85,Beavercreek City,Greene,81.07,1.32,3.26,37353 
+86,Berkshire Local,Geauga,81.01,1.6,7.99,25561 
+87,Avon Local,Lorain,80.98,2.35,5.09,31193 
+88,Lake Local,Stark,80.95,2.25,7.33,28492 
+89,Crestview Local,Van Wert,80.87,2.57,8.07,25622 
+90,Olentangy Local,Delaware,80.77,1.13,5.46,42576 
+91,Avon Lake City,Lorain,80.72,1.74,6.31,34435 
+92,Westerville City,Franklin,80.55,3.24,7.42,33227 
+93,Wooster City,Wayne,80.38,10.04,24.56,23948 
+94,Hilliard City,Franklin,80.33,2.03,6.68,36406 
+95,Mentor Ex Vill,Lake,80.28,2.93,9.79,30225 
+96,Ayersville Local,Defiance,80.25,4,5.43,30568 
+97,McDonald Local,Trumbull,80.17,7.26,10.53,25111 
+98,Copley-Fairlawn City,Summit,80.08,2.65,8.11,31804 
+99,Howland Local,Trumbull,80.04,6.92,11.89,28610 
+100,Finneytown Local,Hamilton,79.96,5.34,12.52,29763 
+101,Stow City,Summit,79.84,2.76,6.77,32054 
+102,South Euclid-Lyndhurst,Cuyahoga,79.81,2.08,8.68,29168 
+103,Rossford Ex Vill,Wood,79.8,8.09,17.67,26564 
+104,Arcanum Butler Local,Darke,79.64,2.92,14.15,25481 
+105,Amherst Ex Vill,Lorain,79.63,2.7,7.32,29838 
+106,Oak Hills Local,Hamilton,79.6,2.21,0,28878 
+107,Perkins Local,Erie,79.55,2.77,9.96,27345 
+108,North Royalton City,Cuyahoga,79.5,1.83,6.93,31476 
+109,Fairview Park City,Cuyahoga,79.43,3.35,4.21,29081 
+110,Gahanna-Jefferson City,Franklin,79.41,5.87,6.22,34394 
+111,Kent City,Portage,79.34,14.53,22.84,21929 
+112,Garaway Local,Tuscaraw,79.19,2.94,18.7,20403 
+113,Liberty Center Local,Henry,79.18,3.76,12.92,26344 
+114,Kettering City,Montgome,78.96,4.6,13.06,28673 
+115,Mathews Local,Trumbull,78.94,7.59,16.78,26660 
+116,Shawnee Local,Allen,78.94,2.32,9.35,30665 
+117,Berlin-Milan Local,Erie,78.9,3.7,13.61,26996 
+118,Mohawk Local,Wyandot,78.87,3.16,14.03,23680 
+119,Van Buren Local,Hancock,78.82,1.49,4.71,31062 
+120,Kings Local,Warren,78.8,2.55,7.32,34834 
+121,Dover City,Tuscaraw,78.74,5.39,13.23,23623 
+122,Hillsdale Local,Ashland,78.7,2.69,12.71,25516 
+123,Wauseon Ex Vill,Fulton,78.69,4.51,16.16,23722 
+124,Tuscarawas Valley Loca,Tuscaraw,78.62,4.06,17.43,24588 
+125,Ottawa-Glandorf Local,Putnam,78.61,5.12,8.8,26467 
+126,Medina City,Medina,78.56,4.48,7.68,31744 
+127,Milford Ex Vill,Clermont,78.51,4.67,9.45,29492 
+128,North Olmsted City,Cuyahoga,78.32,3.52,16,28698 
+129,Jennings Local,Putnam,78.29,0.22,6.37,26750 
+130,Canal Winchester Local,Franklin,78.22,1.26,7.91,30178 
+131,Norton City,Summit,78.2,3.78,14.12,26871 
+132,Seneca East Local,Seneca,78.15,4.65,13.4,24307 
+133,Bowling Green City,Wood,78.12,6.75,15.09,22262 
+134,Edgerton Local,Williams,78.04,4.93,14.83,23724 
+135,Perry Local,Stark,78.01,5.6,17.54,25552 
+136,Northmont City,Montgome,77.98,2.53,10.03,29496 
+137,Bryan City,Williams,77.86,4.24,12.7,23371 
+138,Anna Local,Shelby,77.84,1.39,7.26,27358 
+139,Delphos City,Allen,77.81,5.69,26.16,22756 
+140,Arcadia Local,Hancock,77.79,2.75,7.74,24995 
+141,West Branch Local,Mahoning,77.69,5.98,21.53,22480 
+142,Shaker Heights City,Cuyahoga,77.63,8.72,5.14,36463 
+143,Twinsburg City,Summit,77.39,7.4,15.14,33611 
+144,Western Reserve Local,Mahoning,77.34,2.83,12.71,25944 
+145,Columbia Local,Lorain,77.21,5.46,14.97,28153 
+146,Jonathan Alder Local,Madison,77.02,4.4,14.86,25016 
+147,Botkins Local,Shelby,77.02,0.58,8.05,23936 
+147,Waynesfield-Goshen Loc,Auglaize,77.02,4.18,11.63,24680 
+149,Cuyahoga Falls City,Summit,76.99,5.51,15.07,26304 
+150,Antwerp Local,Paulding,76.92,4.58,14.17,24778 
+151,St Clairsville-Richlan,Belmont,76.87,9.43,17.56,21890 
+152,Little Miami Local,Warren,76.86,4.99,11.48,27362 
+153,Willoughby-Eastlake Ci,Lake,76.82,5.23,18.61,26149 
+154,Ontario Local,Richland,76.79,1.9,7.06,29551 
+155,Newbury Local,Geauga,76.72,9.08,13.75,29444 
+156,Springfield Local,Clark,76.7,0,11.94,27659 
+157,Cedar Cliff Local,Greene,76.66,6.42,10.21,24056 
+158,Brunswick City,Medina,76.66,2.82,14.17,29595 
+159,Napoleon Area City,Henry,76.59,6.21,14.43,26352 
+160,Boardman Local,Mahoning,76.57,4.96,12.38,25555 
+161,Lincolnview Local,Van Wert,76.57,1.83,16.36,24951 
+162,Archbold-Area Local,Fulton,76.54,3.14,8.52,26488 
+163,Crestview Local,Columbia,76.51,7.24,22.21,21611 
+164,Gorham Fayette Local,Fulton,76.51,6.35,21.57,22495 
+165,Vandalia-Butler City,Montgome,76.5,3.51,7.72,29182 
+166,Field Local,Portage,76.49,7.38,16.64,26522 
+167,Plain Local,Stark,76.29,10.29,25.47,26412 
+168,Woodmore Local,Sandusky,76.25,10.37,13.39,27752 
+169,Spencerville Local,Allen,76.2,4.95,21.12,23291 
+170,Bethel Local,Miami,76.17,2.32,3.18,30790 
+171,Greenville City,Darke,76.05,5.74,18.1,22388 
+172,Upper Sandusky Ex Vill,Wyandot,76.03,3.4,15.45,22283 
+173,Benton Carroll Salem L,Ottawa,75.99,4.15,15.03,25652 
+174,Southeast Local,Wayne,75.9,3.15,25.76,20959 
+175,Three Rivers Local,Hamilton,75.89,10.71,19.11,28366 
+176,Marlington Local,Stark,75.89,7.42,21.31,25047 
+177,Southeastern Local,Clark,75.87,7.98,14.75,23400 
+178,Elida Local,Allen,75.86,8.19,18.25,25491 
+179,Mad River-Green Local,Clark,75.74,4.34,8.92,29124 
+180,Loudonville-Perrysvill,Ashland,75.71,6.36,18.37,22338 
+181,Reynoldsburg City,Franklin,75.7,4.83,8.59,28346 
+182,Orrville City,Wayne,75.61,8.75,23.67,24658 
+183,Ada Ex Vill,Hardin,75.57,4.21,14.46,24328 
+184,United Local,Columbia,75.54,7.38,21.67,22347 
+185,East Knox Local,Knox,75.51,6.49,19.89,24696 
+186,Cardinal Local,Geauga,75.5,6.53,20.28,22500 
+187,West Holmes Local,Holmes,75.45,4.64,25.76,20558 
+188,Lebanon City,Warren,75.44,6.15,15.42,26802 
+189,Nordonia Hills City,Summit,75.42,3.98,8.21,30551 
+190,Pleasant Local,Marion,75.39,6.71,11.34,28230 
+191,Otsego Local,Wood,75.36,4.66,11.78,26579 
+192,Tallmadge City,Summit,75.32,5.51,9.58,28652 
+193,Liberty-Benton Local,Hancock,75.27,1.48,7.33,31618 
+194,Richmond Heights Local,Cuyahoga,75.26,2.51,11.47,27829 
+195,Liberty Union-Thurston,Fairfiel,75.26,5.98,15.78,24758 
+196,Hicksville Ex Vill,Defiance,75.25,7.21,14.23,24036 
+197,Milton-Union Ex Vill,Miami,75.23,5.98,14.96,25795 
+198,Talawanda City,Butler,75.2,5.8,14.87,25775 
+199,Columbiana Ex Vill,Columbia,75.17,7.01,21.42,22816 
+200,Central Local,Defiance,75.09,3.37,14.21,24877 
+201,Patrick Henry Local,Henry,75.07,5.24,11.86,24670 
+202,Strasburg-Franklin Loc,Tuscaraw,75.05,5.3,11.47,23067 
+203,North Central Local,Wayne,75.03,4.17,15.02,24864 
+204,Northeastern Local,Defiance,75.02,0.27,7.97,27805 
+205,Louisville City,Stark,74.98,5.52,18.54,25591 
+206,Elmwood Local,Wood,74.96,6.11,23.57,23271 
+207,Mississinawa Valley Lo,Darke,74.93,17.76,31.52,20088 
+208,Holgate Local,Henry,74.92,4.79,11.04,25948 
+209,Defiance City,Defiance,74.91,10.57,15.53,24860 
+210,Berea City,Cuyahoga,74.79,4.64,11.16,26299 
+211,River Valley Local,Marion,74.76,4.06,12.23,25880 
+212,Miamisburg City,Montgome,74.72,7.36,13.63,28039 
+213,Chippewa Local,Wayne,74.69,3.89,15.28,26071 
+214,Allen East Local,Allen,74.66,2.25,10.52,25076 
+215,Ross Local,Butler,74.65,4.52,12,28209 
+216,Athens City,Athens,74.54,15.03,26.75,21543 
+217,Maplewood Local,Trumbull,74.44,9.21,21.74,25540 
+218,Waterloo Local,Portage,74.39,6.87,17.87,24917 
+219,Wapakoneta City,Auglaize,74.39,5.41,16.14,24271 
+220,Troy City,Miami,74.39,8.24,15.98,25727 
+221,Columbus Grove Local,Putnam,74.38,8.07,14.59,25482 
+222,Van Wert City,Van Wert,74.34,6.28,21.44,23664 
+223,Edgewood City,Butler,74.31,4.67,12.28,26890 
+224,Northwestern Local,Wayne,74.3,6.07,25.53,24226 
+225,Covington Ex Vill,Miami,74.28,4.14,15.04,24405 
+226,Wayne Local,Warren,74.27,4.05,9.37,29328 
+227,Washington Local,Lucas,74.21,12.27,21.4,24659 
+228,Clear Fork Valley Loca,Richland,74.2,3.37,12.34,23704 
+229,Bloom Carroll Local,Fairfiel,74.18,2.18,6.83,29378 
+230,New Riegel Local,Seneca,74.14,1.88,2.44,23524 
+231,Oregon City,Lucas,74.05,8.19,21.68,25784 
+232,Liberty Local,Trumbull,74.02,9.99,18.77,24938 
+233,Niles City,Trumbull,74,20.25,29.54,22121 
+234,Cory-Rawson Local,Hancock,73.95,1.69,13.76,25691 
+235,Colonel Crawford Local,Crawford,73.91,3.2,14.18,25422 
+236,Fredericktown Local,Knox,73.84,5.09,13.88,23302 
+237,Stryker Local,Williams,73.79,3.14,13.37,24098 
+238,Valley View Local,Montgome,73.78,3.32,6.31,27761 
+239,Lowellville Local,Mahoning,73.78,14.17,34.06,20739 
+240,Evergreen Local,Fulton,73.73,4.75,19.12,25878 
+241,Madison-Plains Local,Madison,73.7,6.15,15.47,25373 
+242,Old Fort Local,Seneca,73.69,17.75,15.58,25190 
+243,Ansonia Local,Darke,73.64,5.91,16.57,22131 
+244,Springfield Local,Lucas,73.58,12.66,27.06,27733 
+245,Southeast Local,Portage,73.57,7.63,16.06,25517 
+246,Brookville Local,Montgome,73.52,3.64,11.11,26154 
+247,Champion Local,Trumbull,73.49,3.97,9.89,28311 
+248,Miami East Local,Miami,73.43,1.72,8.2,27624 
+249,New Philadelphia City,Tuscaraw,73.43,9.77,13.47,21428 
+250,Bath Local,Allen,73.39,6.12,17.77,24679 
+251,Newton Local,Miami,73.33,1.74,11.13,24811 
+252,Northwest Local,Stark,73.26,4.89,10.28,28201 
+253,Big Walnut Local,Delaware,73.24,4.27,9.27,30053 
+254,Tiffin City,Seneca,73.22,8.24,21.79,22326 
+255,Girard City,Trumbull,73.2,19.61,26.7,21341 
+256,Sandy Valley Local,Stark,73.17,10.98,26.5,22519 
+257,Marysville Ex Vill,Union,73.17,5.44,11.59,28708 
+258,St Marys City,Auglaize,73.15,3.75,16.51,24170 
+259,Salem City,Columbia,73.09,11.58,24.66,21874 
+260,Fairland Local,Lawrence,72.9,17.78,20.84,22884 
+261,Fayetteville-Perry Loc,Brown,72.89,5.85,21.42,26252 
+262,West Liberty-Salem Loc,Champaig,72.86,1.97,8.89,26761 
+263,River View Local,Coshocto,72.85,6.21,26.1,22583 
+264,Port Clinton City,Ottawa,72.84,10.52,21.79,23133 
+265,Keystone Local,Lorain,72.82,2.36,10.55,28891 
+266,Vanlue Local,Hancock,72.76,4.23,13.78,25699 
+267,London City,Madison,72.75,10.94,23.46,24919 
+268,Edison Local,Jefferso,72.73,16.48,32.43,22289 
+269,Painesville Township L,Lake,72.66,3.58,11.75,29247 
+270,Northmor Local,Morrow,72.61,8.92,22.21,22495 
+271,Canton Local,Stark,72.6,8.59,20.56,22469 
+272,Lakewood City,Cuyahoga,72.57,13.77,23.84,25427 
+273,Bradford Ex Vill,Miami,72.57,7.84,19,21935 
+274,New Lebanon Local,Montgome,72.54,7.21,18.28,25082 
+275,Fairfield City,Butler,72.49,4.13,9.02,29738 
+276,Newcomerstown Ex Vill,Tuscaraw,72.49,16.49,39.81,19310 
+277,Cloverleaf Local,Medina,72.47,3.45,14.54,26647 
+278,Lake Local,Wood,72.45,6.06,14.31,25013 
+279,Sebring Local,Mahoning,72.44,13.4,30.39,18973 
+280,Northwestern Local,Clark,72.43,4.04,10.36,26859 
+281,Tri-Village Local,Darke,72.39,4.95,21.5,22315 
+282,Swanton Local,Fulton,72.36,5.89,16.54,26355 
+283,West Muskingum Local,Muskingu,72.36,9.48,16.7,24821 
+284,Northern Local,Perry,72.35,11.3,26.15,23567 
+285,Highland Local,Morrow,72.34,11.31,24.65,24161 
+286,Northwest Local,Hamilton,72.33,6.62,19.6,27666 
+287,Vermilion Local,Erie,72.3,5.1,14.51,27944 
+288,Montpelier Ex Vill,Williams,72.29,7.81,20.55,21535 
+289,East Palestine City,Columbia,72.23,11.62,34.69,19858 
+290,Ridgemont Local,Hardin,72.16,6.36,19.67,23078 
+291,Parkway Local,Mercer,72.15,3.84,16.72,23649 
+292,Gibsonburg Ex Vill,Sandusky,72.11,16.6,22.98,24356 
+293,North Ridgeville City,Lorain,72.04,4.66,12.57,28907 
+294,Austintown Local,Mahoning,72.04,7.61,22.21,24016 
+295,Wayne Trace Local,Paulding,71.99,8.5,20.11,24294 
+296,Mogadore Local,Summit,71.98,3.12,8.29,26742 
+297,Buckeye Central Local,Crawford,71.97,6.01,19.88,24159 
+298,Lisbon Ex Vill,Columbia,71.97,13.61,30.5,20599 
+299,Triway Local,Wayne,71.96,4.45,13.39,25012 
+300,Fairbanks Local,Union,71.9,2.84,7.65,30799 
+301,Indian Creek Local,Jefferso,71.8,15.98,24.74,23613 
+302,Hubbard Ex Vill,Trumbull,71.72,9.74,28.04,22367 
+303,Rootstown Local,Portage,71.63,4.34,8.78,26596 
+304,Ashland City,Ashland,71.61,7.75,23.57,23283 
+305,West Carrollton City,Montgome,71.59,6.65,14.19,26660 
+306,East Muskingum Local,Muskingu,71.59,5.52,16.2,23525 
+307,Leetonia Ex Vill,Columbia,71.57,10.67,25.54,21047 
+308,Wynford Local,Crawford,71.55,6.12,17.15,24124 
+309,Jackson-Milton Local,Mahoning,71.53,12.74,19.73,24852 
+310,Joseph Badger Local,Trumbull,71.51,7.71,25.75,24612 
+311,Millcreek-West Unity L,Williams,71.47,3.18,18.01,22478 
+312,Bristol Local,Trumbull,71.46,6.23,26.28,24876 
+313,Fremont City,Sandusky,71.45,14.68,31.54,23441 
+314,Carrollton Ex Vill,Carroll,71.45,10.91,34.56,22374 
+315,Clyde-Green Springs Ex,Sandusky,71.44,6.97,24.65,24078 
+316,Springfield Local,Summit,71.42,13.97,31.69,23793 
+317,Buckeye Local,Medina,71.33,5.14,14.86,29162 
+318,Danville Local,Knox,71.33,7.76,18.96,19906 
+319,Arlington Local,Hancock,71.32,2.54,7.09,26861 
+320,Southern Local,Columbia,71.29,15.57,37.96,20608 
+321,Lucas Local,Richland,71.28,1.74,11.54,24992 
+322,Madison Local,Lake,71.21,6.81,17.7,25795 
+323,Margaretta Local,Erie,71.14,3.11,17.48,24810 
+324,Parma City,Cuyahoga,71.01,6.13,18.5,25527 
+325,Clinton-Massie Local,Clinton,71,5.96,12.04,24908 
+326,Licking Heights Local,Licking,70.99,7.96,13.15,27947 
+327,Mount Vernon City,Knox,70.99,10.51,22.5,22082 
+328,Huber Heights City,Montgome,70.94,5.34,19.17,29247 
+329,Graham Local,Champaig,70.87,5.66,16,26711 
+330,Danbury Local,Ottawa,70.86,2.43,14.09,21550 
+331,Wickliffe City,Lake,70.82,7.52,16.91,24954 
+332,McComb Local,Hancock,70.78,5.89,21.93,24081 
+333,Findlay City,Hancock,70.78,7.04,19.79,24656 
+334,Eaton City,Preble,70.73,7.35,18.28,24330 
+335,Minerva Local,Stark,70.7,8.56,26.03,23620 
+336,Southwest Local,Hamilton,70.68,9.41,12.76,25641 
+337,Northridge Local,Licking,70.67,4.29,10.85,27299 
+338,Mapleton Local,Ashland,70.61,4.28,20.88,23464 
+339,North Central Local,Williams,70.55,2.63,11.55,22588 
+340,Pike-Delta-York Local,Fulton,70.53,4.94,21.14,24641 
+341,Crestwood Local,Portage,70.53,4.68,13.54,26562 
+342,Sidney City,Shelby,70.5,9.95,22.02,24360 
+343,Southwest Licking Loca,Licking,70.48,6.11,12.22,29068 
+344,Buckeye Local,Ashtabul,70.44,7.8,24.08,22054 
+345,Ridgewood Local,Coshocto,70.43,9.93,23.07,21415 
+346,Southington Local,Trumbull,70.39,7.39,13.47,26567 
+347,West Clermont Local,Clermont,70.31,7.24,14.1,26903 
+348,Deer Park Community Ci,Hamilton,70.24,5.86,14.5,24794 
+349,Elgin Local,Marion,70.24,5.87,21.19,25643 
+350,Johnstown-Monroe Local,Licking,70.19,4.24,10.5,27321 
+351,Wellsville Local,Columbia,70.14,13.85,23.91,18856 
+352,Martins Ferry City,Belmont,70.06,26.23,30.92,19419 
+353,Fort Frye Local,Washingt,70.03,12.33,29.39,20394 
+354,Williamsburg Local,Clermont,70.01,12.09,17.66,25251 
+355,Ravenna City,Portage,69.96,17.88,34.01,23094 
+356,Continental Local,Putnam,69.96,9.77,16.36,24603 
+357,Wellington Ex Vill,Lorain,69.83,4.88,17.17,25244 
+358,Celina City,Mercer,69.77,5.15,17.64,22692 
+359,Streetsboro City,Portage,69.75,7.51,18.83,26747 
+360,North Fork Local,Licking,69.74,6.39,18.91,24098 
+361,Black River Local,Medina,69.74,4.15,23.32,26017 
+362,Warren Local,Washingt,69.68,8.24,20.06,25063 
+363,Heath City,Licking,69.68,4.08,13.21,25024 
+364,Union-Scioto Local,Ross,69.68,12.18,17.86,28211 
+365,Princeton City,Hamilton,69.67,12.97,32.28,27778 
+366,Tri-County North Local,Preble,69.65,8.01,18.35,25335 
+367,Brookfield Local,Trumbull,69.58,12.79,33.58,21721 
+368,Fairfield Union Local,Fairfiel,69.56,8.44,18.81,24938 
+369,Newton Falls Ex Vill,Trumbull,69.56,14.77,22.52,24104 
+370,Conotton Valley Union,Harrison,69.46,8.68,28.66,19101 
+371,Fairborn City,Greene,69.45,12.19,24.49,24393 
+372,Firelands Local,Lorain,69.4,3.47,10.44,28576 
+373,Piqua City,Miami,69.36,14.01,28.82,21227 
+374,Barnesville Ex Vill,Belmont,69.32,15.47,26.57,17554 
+375,James A Garfield Local,Portage,69.27,8.4,21.21,24889 
+376,Washington Court House,Fayette,69.13,14.55,26.09,20639 
+377,LaBrae Local,Trumbull,69.1,14,40.99,23784 
+378,Norwalk City,Huron,69.07,11.96,23.82,22425 
+379,Springfield Local,Mahoning,69.05,10.74,31.12,21458 
+380,Crestview Local,Richland,69.05,5.67,20.65,22870 
+381,Indian Valley Local,Tuscaraw,69.01,9.38,31.26,20357 
+382,Shadyside Local,Belmont,68.94,14.15,12.24,20856 
+383,Coventry Local,Summit,68.92,9.71,25.49,24602 
+384,Osnaburg Local,Stark,68.91,7.25,23.18,23512 
+385,Fairlawn Local,Shelby,68.89,2.19,7.68,23973 
+386,Centerburg Local,Knox,68.83,3,9.43,27392 
+387,Wheelersburg Local,Scioto,68.8,18.16,22.12,22695 
+388,Norwood City,Hamilton,68.73,22.11,34.21,20988 
+389,Shelby City,Richland,68.72,7.65,22.88,23008 
+390,Batavia Local,Clermont,68.64,14.91,24.57,25088 
+391,Bethel-Tate Local,Clermont,68.58,11.05,18.16,23650 
+392,Monroeville Local,Huron,68.52,4.11,24.27,24268 
+393,Ledgemont Local,Geauga,68.5,4.35,14.09,26620 
+394,Geneva Area City,Ashtabul,68.45,13.93,36.04,22262 
+395,Clermont-Northeastern,Clermont,68.41,7.77,17.05,26075 
+396,Ironton City,Lawrence,68.32,30.41,31.7,19491 
+397,Ridgedale Local,Marion,68.28,3.36,19.09,25495 
+398,Fairless Local,Stark,68.25,7.75,21.15,22569 
+399,Tuslaw Local,Stark,68.22,6.52,20.78,25091 
+400,Adena Local,Ross,68.19,11.8,21.22,23616 
+401,Felicity-Franklin Loca,Clermont,68.17,21.75,35.11,21875 
+402,Bloomfield-Mespo Local,Trumbull,68.13,7.55,50.56,21090 
+403,Woodridge Local,Summit,68.11,18.23,22.16,29586 
+404,Madison Local,Butler,68.08,8.58,12.81,27916 
+405,Carlisle Local,Warren,67.99,6.47,15.18,25929 
+406,Weathersfield Local,Trumbull,67.95,12.22,29.26,23830 
+407,Clay Local,Scioto,67.87,22.01,34.48,22253 
+408,Wilmington City,Clinton,67.85,11.76,20.36,23414 
+409,Hardin-Houston Local,Shelby,67.84,2.77,10.34,25818 
+410,Hardin Northern Local,Hardin,67.84,7.28,17.53,23140 
+411,New Richmond Ex Vill,Clermont,67.69,14.34,31.97,24288 
+412,Harrison Hills City,Harrison,67.66,20.1,37.24,18620 
+413,Georgetown Ex Vill,Brown,67.62,9.62,23.23,21576 
+414,Delaware City,Delaware,67.61,8.64,16.07,25392 
+415,Lockland City,Hamilton,67.59,27.01,44.5,20293 
+416,Midview Local,Lorain,67.48,6.29,15.32,27799 
+417,Willard City,Huron,67.44,14.88,29.34,24066 
+418,Northeastern Local,Clark,67.42,2.87,7.16,29945 
+419,North Union Local,Union,67.33,5.25,16.39,26694 
+420,C R Coblentz Local,Preble,67.27,8.26,17.16,22337 
+421,Bellevue City,Huron,67.27,6.08,19.82,25150 
+422,Wolf Creek Local,Washingt,67.26,2.76,28.03,22684 
+423,Hopewell-Loudon Local,Seneca,67.25,4,15.7,24260 
+424,Tri-Valley Local,Muskingu,67.21,6.62,15.67,23446 
+425,Winton Woods City,Hamilton,67.16,8.59,18.84,28325 
+426,Goshen Local,Clermont,67.14,6.18,21.85,24446 
+427,Noble Local,Noble,67.12,12.4,28,20266 
+428,Northwood Local,Wood,67.08,6.46,15.77,25933 
+429,East Guernsey Local,Guernsey,67.05,14.29,31.14,19245 
+430,Perry Local,Allen,67.04,17.25,33.79,20360 
+431,Eastern Local,Brown,66.99,9.78,25.67,20850 
+432,Galion City,Crawford,66.95,13.79,22.71,20377 
+433,Jackson Center Local,Shelby,66.94,6.04,15.81,25704 
+434,Belpre City,Washingt,66.91,15.12,17.02,23778 
+435,Genoa Area Local,Ottawa,66.9,4.58,10.51,26822 
+436,Lynchburg-Clay Local,Highland,66.9,8.63,21.61,21859 
+437,Brooklyn City,Cuyahoga,66.81,6.41,20.18,23768 
+438,Benjamin Logan Local,Logan,66.77,4.47,11.08,27324 
+439,Lakota Local,Sandusky,66.73,9.79,23.82,24082 
+440,Barberton City,Summit,66.72,26.94,47.14,20442 
+441,Western Reserve Local,Huron,66.7,5.49,18.5,25515 
+442,Teays Valley Local,Pickaway,66.64,8.27,22.5,25469 
+443,Pymatuning Valley Loca,Ashtabul,66.62,14.74,30.91,19018 
+444,Chillicothe City,Ross,66.52,20.52,33.59,23150 
+445,Beaver Local,Columbia,66.36,10.35,34.25,20973 
+446,Oberlin City,Lorain,66.32,16.13,28,25211 
+447,Lancaster City,Fairfiel,66.3,13.1,28.39,22090 
+448,Twin Valley Community,Preble,66.27,7.12,23.76,25390 
+449,Waverly City,Pike,66.25,21.44,36.39,22322 
+450,St Bernard-Elmwood Pla,Hamilton,66.16,19.82,42.95,21427 
+451,Struthers City,Mahoning,66.12,21.72,45.13,19023 
+452,Blanchester Local,Clinton,65.99,8.89,21.93,22976 
+453,Franklin City,Warren,65.94,10.54,22.66,23969 
+454,Frontier Local,Washingt,65.92,16.25,40.15,20615 
+455,Preble-Shawnee Local,Preble,65.91,6.48,20.76,25123 
+456,Elyria City,Lorain,65.9,19.18,32.44,23774 
+457,Jefferson Area Local,Ashtabul,65.89,10.77,26.46,23397 
+458,Paulding Ex Vill,Paulding,65.87,8.08,16.77,23882 
+459,Logan-Hocking Local,Hocking,65.82,13.24,28.96,21277 
+460,Greeneview Local,Greene,65.74,7.4,13.58,26012 
+461,Steubenville City,Jefferso,65.57,43.97,42.58,20078 
+462,Edon-Northwest Local,Williams,65.39,2.49,17.65,24415 
+463,Berne Union Local,Fairfiel,65.37,7.76,14.48,23251 
+464,Cardington-Lincoln Loc,Morrow,65.33,12.46,21.62,22716 
+465,Buckeye Local,Jefferso,65.33,20.89,42.11,20173 
+466,Urbana City,Champaig,65.2,10.41,16.77,25188 
+467,Zane Trace Local,Ross,65.12,8.27,15.99,26682 
+468,Riverside Local,Logan,65.11,7.43,19.52,24316 
+469,Tecumseh Local,Clark,65.1,11.02,27.34,25048 
+470,Put-in-Bay Local,Ottawa,65,1.32,0,23422 
+471,Northridge Local,Montgome,64.88,28.28,58.29,21385 
+472,Plymouth Local,Richland,64.86,12.54,34.12,22639 
+473,Rolling Hills Local,Guernsey,64.84,15.2,34.25,19644 
+474,Buckeye Valley Local,Delaware,64.76,4.01,9.68,29316 
+475,Leipsic Local,Putnam,64.74,14,28.42,23336 
+476,Toronto City,Jefferso,64.7,21.86,27.65,22162 
+477,Chesapeake Union Ex Vi,Lawrence,64.63,25.9,40.31,21185 
+478,South Central Local,Huron,64.56,8.35,24.17,23027 
+479,Circleville City,Pickaway,64.51,14.99,24.03,23219 
+480,Marietta City,Washingt,64.47,14.5,0,22362 
+481,Newark City,Licking,64.35,16.78,32.62,21931 
+482,Alexander Local,Athens,64.34,17.11,23.96,21307 
+483,East Clinton Local,Clinton,64.33,11.82,17.23,22415 
+484,Maysville Local,Muskingu,64.28,11.53,25.96,19431 
+485,North College Hill Cit,Hamilton,64.14,14.55,37.11,23591 
+486,Mount Gilead Ex Vill,Morrow,64.12,9.72,18.75,22936 
+487,Coshocton City,Coshocto,64.11,17.58,33.6,20341 
+488,Sheffield-Sheffield La,Lorain,64.1,6.8,16.49,28521 
+489,Kenton City,Hardin,64.09,12.88,30.94,21607 
+490,Hamilton Local,Franklin,63.94,14.58,25.12,23509 
+491,Bedford City,Cuyahoga,63.94,11.43,23.26,24622 
+492,New London Local,Huron,63.93,9.42,22.59,21375 
+493,Caldwell Ex Vill,Noble,63.84,12.47,28.8,19530 
+494,Cleveland Hts-Univ Hts,Cuyahoga,63.83,14.68,8.55,29897 
+495,Groveport Madison Loca,Franklin,63.81,8.98,18.13,26792 
+496,Walnut Township Local,Fairfiel,63.8,7.48,23.98,25178 
+497,Conneaut Area City,Ashtabul,63.8,18.01,41.63,20075 
+498,Cambridge City,Guernsey,63.59,22.64,36.29,19103 
+499,Scioto Valley Local,Ross,63.56,30.88,31.75,22886 
+500,Upper Scioto Valley Lo,Hardin,63.49,9.36,22.33,22586 
+501,Switzerland of Ohio Lo,Monroe,63.45,19.24,42.84,20300 
+502,Mad River Local,Montgome,63.41,7.54,34.67,23872 
+503,Bucyrus City,Crawford,63.41,14.72,37.41,20498 
+504,Brown Local,Carroll,63.4,10.67,19.44,24172 
+505,South Point Local,Lawrence,63.29,25.97,34.04,21328 
+506,Crestline Ex Vill,Crawford,63.25,17.69,36.86,20049 
+507,Riverdale Local,Hardin,63.14,4.16,16.23,23309 
+508,Jefferson Local,Madison,62.94,5.53,22.26,25301 
+509,Mechanicsburg Ex Vill,Champaig,62.93,8.38,14.68,25470 
+510,Licking Valley Local,Licking,62.89,6.48,16.77,25078 
+511,Paint Valley Local,Ross,62.87,17.1,26.79,21944 
+512,Bettsville Local,Seneca,62.79,4.42,28.15,23283 
+513,Carey Ex Vill,Wyandot,62.78,5.49,12.42,22985 
+514,Union Local,Belmont,62.76,17.37,39.53,18033 
+515,South-Western City,Franklin,62.75,12.53,27.46,26215 
+516,Amanda-Clearcreek Loca,Fairfiel,62.73,9.25,18.72,24130 
+517,Xenia City,Greene,62.69,16.14,26.65,24210 
+518,Rittman Ex Vill,Wayne,62.64,7.93,24.5,23387 
+519,Garfield Heights City,Cuyahoga,62.64,12.16,26.71,24192 
+520,Fostoria City,Seneca,62.47,18.86,36.73,20982 
+521,Mount Healthy City,Hamilton,62.46,10.73,41.88,23617 
+522,Fairfield Local,Highland,62.28,7.73,21.87,23084 
+523,Meigs Local,Meigs,62.22,31.32,50.23,19110 
+524,Massillon City,Stark,62.16,19.36,39.27,21235 
+525,Grand Valley Local,Ashtabul,62.04,8.21,26.81,23279 
+526,Washington-Nile Local,Scioto,61.96,30.9,46.53,19987 
+527,Miami Trace Local,Fayette,61.91,9.68,20.56,22390 
+528,Euclid City,Cuyahoga,61.88,15.3,37.21,23989 
+529,Zanesville City,Muskingu,61.75,27.63,50.26,17966 
+530,Western Brown Local,Brown,61.73,9.98,26.27,22531 
+531,Indian Lake Local,Logan,61.72,13.67,21.45,22853 
+532,Lakewood Local,Licking,61.66,11.75,25.72,23626 
+533,Logan Elm Local,Pickaway,61.58,8.03,16.64,26218 
+534,Claymont City,Tuscaraw,61.56,16.35,28.94,17807 
+535,Morgan Local,Morgan,61.5,20.82,37.17,20205 
+536,Oak Hill Union Local,Jackson,61.22,22.31,23.73,19715 
+537,Alliance City,Stark,61.18,24.97,49.1,19298 
+538,Hillsboro City,Highland,61.17,12.2,23.34,20252 
+539,Windham Ex Vill,Portage,61.13,24.88,43.12,20384 
+540,Hamilton City,Butler,60.9,22.02,39.42,21959 
+541,Bellefontaine City,Logan,60.77,14.28,24.47,24292 
+542,Clearview Local,Lorain,60.75,22.99,61.2,21036 
+543,Bellaire City,Belmont,60.71,27.91,40.22,17373 
+544,East Liverpool City,Columbia,60.51,31.34,36.45,18608 
+545,Whitehall City,Franklin,60.47,14.68,32.56,22231 
+546,Middletown City,Butler,60.32,19.21,34.33,22591 
+547,Minford Local,Scioto,60.32,17.74,32.55,21700 
+548,North Baltimore Local,Wood,60.1,10.02,22.7,23587 
+549,Madison Local,Richland,59.81,7.34,27.87,23065 
+550,New Boston Local,Scioto,59.72,52.37,67.88,15160 
+551,Maple Heights City,Cuyahoga,59.63,13.7,31.67,24496 
+552,Sandusky City,Erie,59.27,25.86,50.52,20030 
+553,Valley Local,Scioto,59.26,27.77,41.27,21634 
+554,Greenfield Ex Vill,Highland,59.24,14.88,24.83,20125 
+555,Franklin Local,Muskingu,58.96,12.49,30.15,19593 
+556,Bright Local,Highland,58.92,10.23,27.15,20474 
+557,Gallipolis City,Gallia,58.88,25.42,28.29,22340 
+558,Federal Hocking Local,Athens,58.86,23.15,43.66,20810 
+559,Jackson City,Jackson,58.76,18.37,31.75,21360 
+560,Ashtabula Area City,Ashtabul,58.64,27.63,44.57,20186 
+561,Ripley-Union-Lewis Loc,Brown,58.56,17.22,42.41,19422 
+562,Campbell City,Mahoning,58.54,32.84,53.41,19030 
+563,Eastern Local,Meigs,58.52,22.06,34.78,21228 
+564,New Miami Local,Butler,58.51,22.67,41.12,21121 
+565,Dawson-Bryant Local,Lawrence,58.09,26.28,43.63,19635 
+566,Fairport Harbor Ex Vil,Lake,57.69,10.77,0,22617 
+567,Green Local,Scioto,57.63,26.42,44.08,21257 
+568,Bridgeport Ex Vill,Belmont,57.61,28.83,38.39,17782 
+569,Marion City,Marion,57.47,19.95,36.77,20383 
+570,Painesville City Local,Lake,57.25,25.97,43.29,22134 
+571,Canton City,Stark,57.2,34.29,58.13,18213 
+572,Vinton County Local,Vinton,57.17,20.48,39.32,19502 
+573,Southern Local,Meigs,57.09,28.18,52.54,20671 
+574,Portsmouth City,Scioto,57.05,43.08,58.02,19391 
+575,Westfall Local,Pickaway,56.97,8.62,21.3,24136 
+576,New Lexington City,Perry,56.81,20.8,53.77,20356 
+577,Rock Hill Local,Lawrence,56.71,31.68,43.77,18774 
+578,Triad Local,Champaig,56.35,4.97,12.18,28487 
+579,Scioto Valley Local,Pike,56.26,32.16,44.16,18890 
+580,Nelsonville-York City,Athens,56.17,29.69,45.27,18601 
+581,Akron City,Summit,55.86,35.38,53.82,21006 
+582,Wellston City,Jackson,55.78,22.82,35.2,19034 
+583,Huntington Local,Ross,55.3,19,36.09,21955 
+584,Warrensville Heights C,Cuyahoga,55.22,25.5,17.45,23503 
+585,Northwest Local,Scioto,54.57,28.04,44.18,19625 
+586,Gallia County Local,Gallia,54.47,55.34,44.09,20304 
+587,Adams County/Ohio Vall,Adams,54.28,23.06,47.69,18033 
+588,Lima City,Allen,53.91,34.34,58.08,18903 
+589,Warren City,Trumbull,53.59,43.3,50.85,21012 
+590,Jefferson Township Loc,Montgome,53.56,30.8,64.92,23968 
+591,Western Local,Pike,53.52,36.69,60.64,17289 
+592,Southern Local,Perry,53.45,25.99,54.32,20308 
+593,Crooksville Ex Vill,Perry,53.36,17.5,39.18,18894 
+594,Symmes Valley Local,Lawrence,53.16,28.57,45.08,18555 
+595,Trimble Local,Athens,52.49,33.95,41.01,18127 
+596,Toledo City,Lucas,51.99,43.48,56.03,21724 
+597,Lorain City,Lorain,51.58,34.14,59.95,20865 
+598,Columbus City,Franklin,51.53,41.63,62.51,21857 
+599,Cincinnati City,Hamilton,50.9,44.33,67.88,21826 
+600,Bloom-Vernon Local,Scioto,50.43,34,41.25,19126 
+601,Trotwood-Madison City,Montgome,50.39,23.4,49.91,23819 
+602,Springfield City,Clark,49.54,28.88,45.32,19963 
+603,Youngstown City,Mahoning,49.13,59.28,71.67,17337 
+604,Mansfield City,Richland,49.02,31.56,61.78,19614 
+605,Dayton City,Montgome,46.86,47.04,76.85,20380 
+606,Eastern Local,Pike,44.4,26.08,39.84,19290 
+607,East Cleveland City,Cuyahoga,43.86,52.8,66.15,18136 
+608,Cleveland City,Cuyahoga,42.48,66.2,91.39,19102 
